@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 
 ### Este es un nuevo cambio desde mi repo local y en mi computador
 ### Este es un nuevo cambio dese github!!!
+### Este es un nuevo cambio desde mi repo local
+### Este es un nuevo cambio desde mi repo local y en mi computador
